@@ -1,4 +1,4 @@
-open and sign in n8n
+- open and sign in n8n
 - Step 1: Create a WorkFlow.
 - Step 2: add a manual trigger
 - Step 3: add Gmail to sent a message to the user
