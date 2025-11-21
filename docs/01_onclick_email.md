@@ -2,4 +2,4 @@
 - Step 1: Create a WorkFlow.
 - Step 2: add a manual trigger
 - Step 3: add Gmail to sent a message to the user
-- Step 4: execute the workflow<img width="899" height="251" alt="Screenshot 2025-11-21 141220" src="https://github.com/user-attachments/assets/40d3a5da-d930-4695-b9c9-99f4b1d701c3" />
+- Step 4: execute the workflow<img width="826" height="414" alt="Screenshot 2025-11-21 141905" src="https://github.com/user-attachments/assets/0d2beb50-9333-493a-88d9-fad2ea08fa8e" />
