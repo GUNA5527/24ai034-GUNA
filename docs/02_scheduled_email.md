@@ -1,0 +1,5 @@
+- Step 1: Open n8n and create a new workflow.
+- Step 2: Add Schedule Trigger and set the time you want.
+- Step 3: Add Gmail – Send a Message node.
+- Step 4: Connect the Schedule Trigger → Gmail node.
+- Step 5: Enter your email details (To, Subject, Message) and activate the workflow.<img width="1195" height="417" alt="Screenshot 2025-11-22 102451" src="https://github.com/user-attachments/assets/4ef3939f-c216-426e-8dee-8aea79b900dc" />
