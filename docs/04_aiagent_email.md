@@ -1,0 +1,8 @@
+- Step 1: Open n8n and sign in.
+- Step 2: Click Create Workflow.
+- Step 3: Add When Chat Message Received trigger.
+- Step 4: Add AI Agent node.
+- Step 5: Add Google Gemini Chat Model inside the AI Agent.
+- Step 6: Add Gmail – Send Message node.
+- Step 7: Connect all nodes exactly like the workflow.
+- Step 8: Save and Activate the workflow<img width="1071" height="514" alt="Screenshot 2025-11-22 102512" src="https://github.com/user-attachments/assets/bb8df9f8-0aa4-463e-af8c-3938732fcff9" />
